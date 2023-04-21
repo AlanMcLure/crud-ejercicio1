@@ -52,7 +52,7 @@ public class Ciudad {
 		return numHabitantes;
 	}
 
-	public void setnumHabitantes(int numHabitantes) {
+	public void setNumHabitantes(int numHabitantes) {
 		this.numHabitantes = numHabitantes;
 	}
 }
